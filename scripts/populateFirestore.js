@@ -19,7 +19,7 @@ import {
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBfvqS6UFdRbU2J-ntfif79JKbVH3zWa-w",
+  apiKey: "",
   authDomain: "fridge--logger.firebaseapp.com",
   projectId: "fridge--logger",
   storageBucket: "fridge--logger.firebasestorage.app",
