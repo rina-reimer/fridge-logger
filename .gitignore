@@ -22,7 +22,6 @@
 
 # misc
 .DS_Store
-/scripts/
 *.pem
 
 # debug
@@ -33,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+config.*
 
 # vercel
 .vercel
